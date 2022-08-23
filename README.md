@@ -1,0 +1,2 @@
+# zavrsni
+Bachelor's thesis
